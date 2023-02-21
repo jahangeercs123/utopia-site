@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Courgette-Regular';
+    src: url('../fonts/Courgette-Regular.woff2') format('woff2'),
+        url('../fonts/Courgette-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RobotoCondensed-Regular';
+    src: url('../fonts/RobotoCondensed-Regular.woff2') format('woff2'),
+        url('../fonts/RobotoCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Merriweather-Italic';
+    src: url('../fonts/Merriweather-Italic.woff2') format('woff2'),
+        url('../fonts/Merriweather-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+
+
+
